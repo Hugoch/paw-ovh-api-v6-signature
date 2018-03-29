@@ -21,4 +21,4 @@ This Paw Extension is released under the [MIT License](LICENSE).
 
 ## Contributors
 
-https://github.com/hugoch/
+https://github.com/Hugoch/paw-ovh-api-v6-signature/graphs/contributors
